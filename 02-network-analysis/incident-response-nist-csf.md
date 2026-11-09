@@ -1,6 +1,6 @@
 # Incident Response Using the NIST CSF
 
-> **Practice project.** Palmgate Family Clinic and this incident are fictional. The technical evidence is in the [security incident report](./security-incident-report.md).
+> Part of my [network analysis](./README.md), based on the Google Cybersecurity Certificate's network analysis activity. The technical evidence is in the [security incident report](./security-incident-report.md).
 
 ## Summary
 

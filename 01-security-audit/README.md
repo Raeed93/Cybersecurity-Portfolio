@@ -1,6 +1,6 @@
 # Security Audit: Palmgate Family Clinic
 
-> **Practice project.** Palmgate Family Clinic is a fictional company, and I wrote this scenario for practice. The audit follows the method taught in the Google Cybersecurity Certificate. No real organization, patient, or person is involved.
+> Based on the Google Cybersecurity Certificate's security audit activity. I adapted it to **Palmgate Family Clinic**, a healthcare scenario I designed in place of the course's example company.
 
 | | |
 |---|---|

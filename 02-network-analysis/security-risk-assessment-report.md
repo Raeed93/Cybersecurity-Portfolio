@@ -1,6 +1,6 @@
 # Security Risk Assessment Report
 
-> **Practice project.** Palmgate Family Clinic is fictional.
+> Part of my [network analysis](./README.md), based on the Google Cybersecurity Certificate's network analysis activity.
 
 ## Scenario
 

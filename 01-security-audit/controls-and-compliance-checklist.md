@@ -1,6 +1,6 @@
 # Controls and Compliance Checklist: Palmgate Family Clinic
 
-> **Practice project.** Palmgate Family Clinic is fictional. The evidence IDs refer to the [audit observations](./README.md#audit-observations).
+> Part of my [security audit](./README.md), based on the Google Cybersecurity Certificate's security audit activity. The evidence IDs refer to the [audit observations](./README.md#audit-observations).
 
 An **X** under **Yes** means the control exists and works as intended. An **X** under **No** means it is missing or not effective. The **CSF** column shows the main NIST CSF 2.0 function each control supports: Govern (GV), Identify (ID), Protect (PR), Detect (DE), Respond (RS), or Recover (RC).
 

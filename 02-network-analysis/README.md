@@ -1,6 +1,6 @@
 # Network Analysis: Palmgate Family Clinic
 
-> **Practice project.** Palmgate Family Clinic is a fictional company, and I wrote these scenarios for practice. The domain names, IP addresses, and network log are simulated. This project follows my [security audit](../01-security-audit/) of the same clinic.
+> Based on the Google Cybersecurity Certificate's network analysis activity. I adapted it to **Palmgate Family Clinic**, a healthcare scenario I designed in place of the course's example company. This project follows my [security audit](../01-security-audit/) of the same clinic.
 
 ## Overview
 
